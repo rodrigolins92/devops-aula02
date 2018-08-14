@@ -4,5 +4,6 @@ Aula 2
 ## 3 atores
 
  - Glória Pires
- - Fernanda Montenegro
+ - Lima Duarte
  - Yoná Magalhães
+ - Malu Mader
